@@ -36,13 +36,13 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
-  nPOTScale: 1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -53,7 +53,7 @@ TextureImporter:
   alphaUsage: 1
   alphaIsTransparency: 0
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -103,18 +103,3450 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3960
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6fc357fe2a48c4aa1a184ff974dcbd
+      internalID: 1062217470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 3960
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beca0be2554f5c847be3bb783e38e18f
+      internalID: -105780766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_2
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3960
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b719e875acdcfb24eb574c0222dcdfc3
+      internalID: -2011389407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_3
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3960
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a75f906e7544d4cb143f527e82041a
+      internalID: -739698905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_4
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3960
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dca0942587ef944992e527134f3e87
+      internalID: 1744411075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_5
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3960
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3776a9614c8774eab1efedebe94fe7
+      internalID: 575604711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_6
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3960
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305c401acd527b54786b5c4cf5a518d4
+      internalID: 1994245255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_7
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 3960
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a30f844a43f994abab532fa2df541d
+      internalID: 201746371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_8
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 3960
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7164e586df3cb41bf3ce010eced8fc
+      internalID: -320477382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_9
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 3960
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47144319863216499c0526e78f2e780
+      internalID: 887592751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_10
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3960
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d6a3934f2325943a4f2bf82132e4fd
+      internalID: 792418647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_11
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 3960
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad02a5197b0628458ff3b88d189f8af
+      internalID: -863948213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_12
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 3960
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f109266fdf24bfd44bae8c2ed7a71216
+      internalID: 297521735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_13
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 3960
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbdc4732f81afb43b2c9c78b326d27c
+      internalID: 486030694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_14
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 3960
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a0b811be6121a469ad010320553f8b
+      internalID: 534636375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_15
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 3960
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed50bea3c7e42e40aa27ef95a2c0d9a
+      internalID: -1163184155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba09104de6779d44aa7ceef37317f523
+      internalID: 928778636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_17
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 3600
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e3bd56553e53a4a824c94eb5514ff6
+      internalID: 478365513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_18
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3600
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09afc2c0d2854e64597a08ddcb2bb475
+      internalID: 2016092256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_19
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3600
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86885f9548945fe488e7f409175ae1a1
+      internalID: 2014070709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_20
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3600
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81b96e61890cb0408d4493011335ebb
+      internalID: -477458082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_21
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3600
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e56e84c3e3ba264096e9596546e2124
+      internalID: -96975474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_22
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3600
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362f038679ee3ba41a5a321a37084b26
+      internalID: 1284883278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_23
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 3600
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a640010392ed42f44a85030f6ed4a862
+      internalID: 855470985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_24
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 3600
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00389649e9199a440903e3aa04c6ba00
+      internalID: 1408295902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_25
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 3600
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36eec698cb9f9041be1af15dee92c3a
+      internalID: -2039718053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_26
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3600
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91bf5bd744529e4fb394dc58e822057
+      internalID: -1855078733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_27
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 3600
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3ed796c8868a84d88fbf60076f5763
+      internalID: -256036062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_28
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 3600
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4b3957f680a5c4280872eb4d91ced7
+      internalID: 2103262353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_29
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 3600
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5294f02da12d416419c4e92198f47f61
+      internalID: -152249633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_30
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 3600
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02438ef64d3307044a40b6ccdcf5f628
+      internalID: -825992307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_31
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 3600
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b2511b934845b48b269ffc249d8718
+      internalID: 368473760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f332f0fbd8d674248a6c42f87e68aa9f
+      internalID: -1187065391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_33
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 3240
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f48cfc6cff0fd41877878be2c00fb6
+      internalID: -568831991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_34
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3240
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe3a6ae9787de74c98e96b77b852f50
+      internalID: 1129237225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_35
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3240
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e079f7423f6de1c4f9140662d3e4cd83
+      internalID: -2143497413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_36
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3240
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93c73d298ab28640ba2e48f113cf415
+      internalID: -692883567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_37
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3240
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b2df057dea6a14093f1916c70ba831
+      internalID: -1881433505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_38
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3240
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b4f05d6b7f442489f8f8c33c2c311c
+      internalID: -1415657426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_39
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 3240
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe5ea9b9fed40549a56e878b9d56e0c
+      internalID: 1236251235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_40
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 3240
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b1de57e20a89a44b9269d5845211c7
+      internalID: -753432234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_41
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 3240
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b544de94f589a284188a4cc74796a14f
+      internalID: -484097479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_42
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3240
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8328e33e8bf2ae746a7325f7c9b4b83d
+      internalID: -1673906414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_43
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 3240
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641bbc3b0a13084409ff8fcfea9c0b1c
+      internalID: -567395680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_44
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 3240
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc2a6441dfdb9d44a835668728e3cfa
+      internalID: 1257775067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_45
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 3240
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6302e7b8c5c91d44bbd7ec6a99494c3
+      internalID: 1676753157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_46
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 3240
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf31c2b9bfcb9342bc2d16f1f9c03b8
+      internalID: 654785116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75d53048f786814191210c2999aea0e
+      internalID: 168010670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_48
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2880
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00f733ba5bba0a40a83fd2274271bed
+      internalID: 1758136383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2880
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b277ed2dd05bcfd46b702b9f425cc456
+      internalID: -141158344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_50
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2880
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4d033201d6fd44a97239317dc5a2f8
+      internalID: 1429814667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_51
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2880
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092ee25625384124eac8c043f6a28b15
+      internalID: 595424843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_52
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2880
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bbab9a902da4a4a943d32d66a94502
+      internalID: 917637671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_53
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2880
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e91e7826d08bd54aafd432466503666
+      internalID: 2107956600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_54
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 2880
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a81052fdb495514786ef935280223d2
+      internalID: -460409037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_55
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2880
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dacabcd562e98546a2aecf2c76be936
+      internalID: -481654371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_56
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2880
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7080e3cb844ed5a48a7f6399cc6559f7
+      internalID: -1958951009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_57
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2880
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4d5b79547cdd84a87b75d8ee8f63cd
+      internalID: -80167898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_58
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 2880
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3329d11f642764586f7f0aaed8cef8
+      internalID: 92094650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_59
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 2880
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6eb48f0be245648bf7ce5ca68ae6f1
+      internalID: 48662654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_60
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 2880
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c210214816f804c975eef4bdab5912
+      internalID: -975763550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_61
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 2880
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a06fbbc5c4e164fbd90f3d4adc3880
+      internalID: -1306665437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2520
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec3b0c2c16f9434291f0660407bea4f
+      internalID: -136999724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_63
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2520
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8418f63f6674e844d857741aaac9dcd7
+      internalID: -1033647979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_64
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2520
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8b8e99f90d69c4a9a95ccfc55a44a6
+      internalID: 1597461483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_65
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2520
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88a8a9b6f9735048a716b574712fee3
+      internalID: 664705885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_66
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2520
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a477395e960472749b4b5c32432b0507
+      internalID: 350762154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_67
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2520
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc05214a65b7d9549aa9be9bb56c1be8
+      internalID: -990782553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_68
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2520
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855348ef72c388646ac9fd44b30dbb32
+      internalID: 1974203338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_69
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 2520
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4084aa26cfa68b14fa1a9f83fb88bd0c
+      internalID: -942610204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_70
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2520
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd67de76f08fc24cab37143f3f301e5
+      internalID: -1907819594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_71
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2520
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a3dfd8033463b4c9ef063af2b0db0d
+      internalID: 126674270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_72
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2520
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4dded0743599f409b61e8e291aabf4
+      internalID: 1462597504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_73
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 2520
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a1096518e2048459bb9d7a893e8f77
+      internalID: -1627900907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_74
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 2520
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b77afe4838b1a43bbd3bd5cef66d35
+      internalID: 2112064722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_75
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 2520
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3091e792a1d2a2b4283f264df030661d
+      internalID: -1944342192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_76
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 2520
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab8f2144b60b774cb8e01c2c99df925
+      internalID: -724137023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78287b15fcd06844bbda454f2a537f0b
+      internalID: 1047933457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_78
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2160
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c87d3e9ef0a150439194bae5bc89faa
+      internalID: -1009546066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_79
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2160
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6047d08bb2e064d9b183617197a10d
+      internalID: 1789362888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_80
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2160
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e966956502d05468dfba93679678bd
+      internalID: 1811113431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_81
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2160
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0375844f4d53eb34f9ab7d293afd068c
+      internalID: -1668517524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_82
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2160
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de89bb7c2a0af3542b00bd3c9f236a8e
+      internalID: 1737266944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_83
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2160
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0106d31308751f849bbf45b1e4971377
+      internalID: 241869659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_84
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 2160
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31a8e2907641524d8a9b9683f2f69cc
+      internalID: -130881448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_85
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2160
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472533664a042a6488e24988cb1e7e48
+      internalID: -84385388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_86
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2160
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74d489d4b3f5c547a8024003dd5d389
+      internalID: -55125665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_87
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2160
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd70996226efa14c83743c75733c278
+      internalID: 1390440397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_88
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 2160
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb3be146dd6b1042810455252975d84
+      internalID: -1262353915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_89
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 2160
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922bca67f1a3b4b41852711c8ffb3efc
+      internalID: -970093345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_90
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 2160
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f38be7c2b0360547afc496d44420163
+      internalID: -311957040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_91
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 2160
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eda11237eaba5a4b97141498313c270
+      internalID: 2078234872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38ce82493fd01a4fa898f415595dc5d
+      internalID: 901835384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_93
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1800
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711c52a7a9a3a1749a1494c27dbbd2c6
+      internalID: -1060903533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_94
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1800
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ceda2afea2cc74fba9d4bfebac336f
+      internalID: 941515497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_95
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1800
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff5bed250844e04b833e50b4580fffe
+      internalID: 1419544049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_96
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1800
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea855def4a989f0428fa7b5edb1ce3b4
+      internalID: 1557640981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_97
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1800
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5de361127bb7c43836ffab84b7f3af
+      internalID: 1271654285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_98
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1800
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8313432a2e5f81b4f9f7de0ac4de9788
+      internalID: 1099689029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_99
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1800
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3606a062ef15f5546b83c147f188540e
+      internalID: 930272360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_100
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1800
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92832af7dbb5eb4eb5432e86662f688
+      internalID: 1172916011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_101
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1800
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b51b919f45602f4bacf4a785842755c
+      internalID: -1288481241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d767e6bd0f8c16043ac33365c365d5cb
+      internalID: 977635202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_103
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1440
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d3b7dda12fcf64c9ed2d764900ebd0
+      internalID: -1738045750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_104
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1440
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcb7c5321e1e4142af3b097562f2e32
+      internalID: 269437982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_105
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1440
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bccc57559de0445ac6092af790e242
+      internalID: 488552404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_106
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1440
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853cea7b35b8e50459192042270ef860
+      internalID: 2056787072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_107
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1440
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4502948d3fb3cd34b8da548c70188f7f
+      internalID: 1107709255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_108
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1440
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e35b3308ef7e34b987ca90f27ea922
+      internalID: 265105490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_109
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1440
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee71d2bf0c91c84c82157ec8f73f9c0
+      internalID: -1987048287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_110
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1440
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13caa1939dbb608469dc7bab3b5910f1
+      internalID: 1963362793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_111
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1440
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0497a7aaceb020b4f97026df65929409
+      internalID: -840409839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd938a1d775b1a4458c65edd5a912817
+      internalID: -341023881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_113
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1080
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2096b5516550fef469dbad4c6ecf2a09
+      internalID: 1993184548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_114
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1080
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0824f90261ffa234cb7fcb010f34b156
+      internalID: 1557091146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_115
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1080
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47534e3bd0c225e47a92641cbd1b314b
+      internalID: -318472559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_116
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1080
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34e0dc4da9ff3b49b2ae1b93c2a05bb
+      internalID: -1688457347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_117
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1080
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aabcfb94aa52fb4d993c343218c94a6
+      internalID: 1948812402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_118
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1080
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cabee15254e9c489f7a84391e01cd1
+      internalID: 279748393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_119
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1080
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a73cf274ff8e7488f373538626175d
+      internalID: 438386836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_120
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1080
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee17357691be3a4a8e4baa6b0d158ae
+      internalID: -9470839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_121
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1080
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624cb4df4aacadc4f8cb61478434aea6
+      internalID: 1293658657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_122
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1080
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cac372012911f54c94c2d32e431de54
+      internalID: -1928224394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_123
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 1080
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8668442cc821a49bcdc7ae175f6c6e
+      internalID: -3623546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de9cd85e8f58cc44b7b7e97cac61b8d
+      internalID: 1939181350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_125
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c920a9858ab8ed743b7e6a1c93f42a21
+      internalID: 56403362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_126
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16672f809af75c44d863930a25929403
+      internalID: -634098953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_127
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e314012ce789d34ebec397774edbd64
+      internalID: 745771098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_128
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b300cfb6280bd644b81ed05c9344ff90
+      internalID: -1255069805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_129
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cd5803e285d0f44921f34092675836
+      internalID: 275056661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_130
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba570ddfa69db3341ba36148edbe8287
+      internalID: -18509010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_131
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d523e3f2de7a5544f830fcf00f3e5fbc
+      internalID: 963743167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_132
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8a0b100f23de04ba04cf58120acbb7
+      internalID: 2027092498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_133
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d7b980782e8f44da92f4bb03d6e047
+      internalID: 1624889873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2885fdaf6378247b3eb27158ccb0aa
+      internalID: -882943256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_135
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db432594172ecd241bf64b0c23f4e297
+      internalID: -632587753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_136
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd7b282648345944a289c13a4d10e28
+      internalID: 54350738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_137
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b991f6eac998c240b95bb04c36bf770
+      internalID: -298134536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_138
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd81343df4a76eb47b89982f4e8c1950
+      internalID: 176832415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_139
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadb6c15ec75ba841b6ec2f7c57852f5
+      internalID: -701578050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_140
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5101b578423ca4fb9f3f8710757cd9
+      internalID: -1415399811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_141
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c9041d47ce83541b4d6e12b819da8c
+      internalID: -1370335333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_142
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e72b0d1bdd0ef4aab70b86c0a32d4e
+      internalID: -145422989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_143
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966458b6107d2744c91ec6220bcca93d
+      internalID: 1116819144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_144
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d04592447000a4d8dea713ffc69924
+      internalID: 2112269042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_145
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0cb52de1694364c8b90954cecde37a
+      internalID: -997900592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23f06c5ac80a634aa26e28bf30076c5
+      internalID: 418408645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_147
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b563e8e1da2e84aa7d83270c7c1192
+      internalID: 1879115595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_148
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa57236ffaea854ca940d6f02498c75
+      internalID: -252614845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_149
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39692f9a405e6c49bde638ee8a0053d
+      internalID: -1316245658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_150
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1c686949d1d0e46aa204ef175d3ac3
+      internalID: -570397525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_151
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1aa58f8162e8d54b83cd02ca8c72eed
+      internalID: 312826746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_152
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0cfab1e36ce8c49b28a2a5a93e51b4
+      internalID: 1696551460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_153
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bb1ec552a7c794cb7630e0aef59ce3
+      internalID: 1037246063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_154
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4916a3095ba16e047bada37adc76d279
+      internalID: 249913359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ucup Sprite-Sheet_Nu4 (360)-min_155
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d19ccbdf4f80142b474b0be4dfd6b6
+      internalID: 1697306612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 93f8d54b84d4a684280598b56051baef
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ucup Sprite-Sheet_Nu4 (360)-min_82: 1737266944
+      Ucup Sprite-Sheet_Nu4 (360)-min_13: 486030694
+      Ucup Sprite-Sheet_Nu4 (360)-min_40: -753432234
+      Ucup Sprite-Sheet_Nu4 (360)-min_98: 1099689029
+      Ucup Sprite-Sheet_Nu4 (360)-min_144: 2112269042
+      Ucup Sprite-Sheet_Nu4 (360)-min_30: -825992307
+      Ucup Sprite-Sheet_Nu4 (360)-min_24: 1408295902
+      Ucup Sprite-Sheet_Nu4 (360)-min_33: -568831991
+      Ucup Sprite-Sheet_Nu4 (360)-min_28: 2103262353
+      Ucup Sprite-Sheet_Nu4 (360)-min_101: -1288481241
+      Ucup Sprite-Sheet_Nu4 (360)-min_105: 488552404
+      Ucup Sprite-Sheet_Nu4 (360)-min_119: 438386836
+      Ucup Sprite-Sheet_Nu4 (360)-min_26: -1855078733
+      Ucup Sprite-Sheet_Nu4 (360)-min_147: 1879115595
+      Ucup Sprite-Sheet_Nu4 (360)-min_16: 928778636
+      Ucup Sprite-Sheet_Nu4 (360)-min_109: -1987048287
+      Ucup Sprite-Sheet_Nu4 (360)-min_8: -320477382
+      Ucup Sprite-Sheet_Nu4 (360)-min_103: -1738045750
+      Ucup Sprite-Sheet_Nu4 (360)-min_17: 478365513
+      Ucup Sprite-Sheet_Nu4 (360)-min_43: -567395680
+      Ucup Sprite-Sheet_Nu4 (360)-min_47: 168010670
+      Ucup Sprite-Sheet_Nu4 (360)-min_69: -942610204
+      Ucup Sprite-Sheet_Nu4 (360)-min_60: -975763550
+      Ucup Sprite-Sheet_Nu4 (360)-min_77: 1047933457
+      Ucup Sprite-Sheet_Nu4 (360)-min_100: 1172916011
+      Ucup Sprite-Sheet_Nu4 (360)-min_93: -1060903533
+      Ucup Sprite-Sheet_Nu4 (360)-min_154: 249913359
+      Ucup Sprite-Sheet_Nu4 (360)-min_74: 2112064722
+      Ucup Sprite-Sheet_Nu4 (360)-min_95: 1419544049
+      Ucup Sprite-Sheet_Nu4 (360)-min_110: 1963362793
+      Ucup Sprite-Sheet_Nu4 (360)-min_142: -145422989
+      Ucup Sprite-Sheet_Nu4 (360)-min_118: 279748393
+      Ucup Sprite-Sheet_Nu4 (360)-min_7: 201746371
+      Ucup Sprite-Sheet_Nu4 (360)-min_1: -105780766
+      Ucup Sprite-Sheet_Nu4 (360)-min_76: -724137023
+      Ucup Sprite-Sheet_Nu4 (360)-min_63: -1033647979
+      Ucup Sprite-Sheet_Nu4 (360)-min_94: 941515497
+      Ucup Sprite-Sheet_Nu4 (360)-min_0: 1062217470
+      Ucup Sprite-Sheet_Nu4 (360)-min_11: -863948213
+      Ucup Sprite-Sheet_Nu4 (360)-min_58: 92094650
+      Ucup Sprite-Sheet_Nu4 (360)-min_4: 1744411075
+      Ucup Sprite-Sheet_Nu4 (360)-min_152: 1696551460
+      Ucup Sprite-Sheet_Nu4 (360)-min_75: -1944342192
+      Ucup Sprite-Sheet_Nu4 (360)-min_114: 1557091146
+      Ucup Sprite-Sheet_Nu4 (360)-min_19: 2014070709
+      Ucup Sprite-Sheet_Nu4 (360)-min_62: -136999724
+      Ucup Sprite-Sheet_Nu4 (360)-min_140: -1415399811
+      Ucup Sprite-Sheet_Nu4 (360)-min_61: -1306665437
+      Ucup Sprite-Sheet_Nu4 (360)-min_138: 176832415
+      Ucup Sprite-Sheet_Nu4 (360)-min_149: -1316245658
+      Ucup Sprite-Sheet_Nu4 (360)-min_49: -141158344
+      Ucup Sprite-Sheet_Nu4 (360)-min_143: 1116819144
+      Ucup Sprite-Sheet_Nu4 (360)-min_23: 855470985
+      Ucup Sprite-Sheet_Nu4 (360)-min_67: -990782553
+      Ucup Sprite-Sheet_Nu4 (360)-min_35: -2143497413
+      Ucup Sprite-Sheet_Nu4 (360)-min_50: 1429814667
+      Ucup Sprite-Sheet_Nu4 (360)-min_39: 1236251235
+      Ucup Sprite-Sheet_Nu4 (360)-min_48: 1758136383
+      Ucup Sprite-Sheet_Nu4 (360)-min_83: 241869659
+      Ucup Sprite-Sheet_Nu4 (360)-min_68: 1974203338
+      Ucup Sprite-Sheet_Nu4 (360)-min_44: 1257775067
+      Ucup Sprite-Sheet_Nu4 (360)-min_71: 126674270
+      Ucup Sprite-Sheet_Nu4 (360)-min_102: 977635202
+      Ucup Sprite-Sheet_Nu4 (360)-min_96: 1557640981
+      Ucup Sprite-Sheet_Nu4 (360)-min_66: 350762154
+      Ucup Sprite-Sheet_Nu4 (360)-min_41: -484097479
+      Ucup Sprite-Sheet_Nu4 (360)-min_88: -1262353915
+      Ucup Sprite-Sheet_Nu4 (360)-min_117: 1948812402
+      Ucup Sprite-Sheet_Nu4 (360)-min_18: 2016092256
+      Ucup Sprite-Sheet_Nu4 (360)-min_53: 2107956600
+      Ucup Sprite-Sheet_Nu4 (360)-min_115: -318472559
+      Ucup Sprite-Sheet_Nu4 (360)-min_129: 275056661
+      Ucup Sprite-Sheet_Nu4 (360)-min_121: 1293658657
+      Ucup Sprite-Sheet_Nu4 (360)-min_146: 418408645
+      Ucup Sprite-Sheet_Nu4 (360)-min_73: -1627900907
+      Ucup Sprite-Sheet_Nu4 (360)-min_10: 792418647
+      Ucup Sprite-Sheet_Nu4 (360)-min_92: 901835384
+      Ucup Sprite-Sheet_Nu4 (360)-min_97: 1271654285
+      Ucup Sprite-Sheet_Nu4 (360)-min_14: 534636375
+      Ucup Sprite-Sheet_Nu4 (360)-min_65: 664705885
+      Ucup Sprite-Sheet_Nu4 (360)-min_80: 1811113431
+      Ucup Sprite-Sheet_Nu4 (360)-min_113: 1993184548
+      Ucup Sprite-Sheet_Nu4 (360)-min_107: 1107709255
+      Ucup Sprite-Sheet_Nu4 (360)-min_127: 745771098
+      Ucup Sprite-Sheet_Nu4 (360)-min_31: 368473760
+      Ucup Sprite-Sheet_Nu4 (360)-min_150: -570397525
+      Ucup Sprite-Sheet_Nu4 (360)-min_55: -481654371
+      Ucup Sprite-Sheet_Nu4 (360)-min_22: 1284883278
+      Ucup Sprite-Sheet_Nu4 (360)-min_133: 1624889873
+      Ucup Sprite-Sheet_Nu4 (360)-min_104: 269437982
+      Ucup Sprite-Sheet_Nu4 (360)-min_139: -701578050
+      Ucup Sprite-Sheet_Nu4 (360)-min_137: -298134536
+      Ucup Sprite-Sheet_Nu4 (360)-min_3: -739698905
+      Ucup Sprite-Sheet_Nu4 (360)-min_120: -9470839
+      Ucup Sprite-Sheet_Nu4 (360)-min_131: 963743167
+      Ucup Sprite-Sheet_Nu4 (360)-min_25: -2039718053
+      Ucup Sprite-Sheet_Nu4 (360)-min_136: 54350738
+      Ucup Sprite-Sheet_Nu4 (360)-min_130: -18509010
+      Ucup Sprite-Sheet_Nu4 (360)-min_57: -80167898
+      Ucup Sprite-Sheet_Nu4 (360)-min_145: -997900592
+      Ucup Sprite-Sheet_Nu4 (360)-min_51: 595424843
+      Ucup Sprite-Sheet_Nu4 (360)-min_45: 1676753157
+      Ucup Sprite-Sheet_Nu4 (360)-min_135: -632587753
+      Ucup Sprite-Sheet_Nu4 (360)-min_27: -256036062
+      Ucup Sprite-Sheet_Nu4 (360)-min_128: -1255069805
+      Ucup Sprite-Sheet_Nu4 (360)-min_132: 2027092498
+      Ucup Sprite-Sheet_Nu4 (360)-min_34: 1129237225
+      Ucup Sprite-Sheet_Nu4 (360)-min_155: 1697306612
+      Ucup Sprite-Sheet_Nu4 (360)-min_116: -1688457347
+      Ucup Sprite-Sheet_Nu4 (360)-min_2: -2011389407
+      Ucup Sprite-Sheet_Nu4 (360)-min_29: -152249633
+      Ucup Sprite-Sheet_Nu4 (360)-min_86: -55125665
+      Ucup Sprite-Sheet_Nu4 (360)-min_9: 887592751
+      Ucup Sprite-Sheet_Nu4 (360)-min_106: 2056787072
+      Ucup Sprite-Sheet_Nu4 (360)-min_89: -970093345
+      Ucup Sprite-Sheet_Nu4 (360)-min_141: -1370335333
+      Ucup Sprite-Sheet_Nu4 (360)-min_12: 297521735
+      Ucup Sprite-Sheet_Nu4 (360)-min_56: -1958951009
+      Ucup Sprite-Sheet_Nu4 (360)-min_111: -840409839
+      Ucup Sprite-Sheet_Nu4 (360)-min_54: -460409037
+      Ucup Sprite-Sheet_Nu4 (360)-min_5: 575604711
+      Ucup Sprite-Sheet_Nu4 (360)-min_112: -341023881
+      Ucup Sprite-Sheet_Nu4 (360)-min_91: 2078234872
+      Ucup Sprite-Sheet_Nu4 (360)-min_134: -882943256
+      Ucup Sprite-Sheet_Nu4 (360)-min_15: -1163184155
+      Ucup Sprite-Sheet_Nu4 (360)-min_36: -692883567
+      Ucup Sprite-Sheet_Nu4 (360)-min_42: -1673906414
+      Ucup Sprite-Sheet_Nu4 (360)-min_37: -1881433505
+      Ucup Sprite-Sheet_Nu4 (360)-min_59: 48662654
+      Ucup Sprite-Sheet_Nu4 (360)-min_90: -311957040
+      Ucup Sprite-Sheet_Nu4 (360)-min_46: 654785116
+      Ucup Sprite-Sheet_Nu4 (360)-min_151: 312826746
+      Ucup Sprite-Sheet_Nu4 (360)-min_64: 1597461483
+      Ucup Sprite-Sheet_Nu4 (360)-min_70: -1907819594
+      Ucup Sprite-Sheet_Nu4 (360)-min_122: -1928224394
+      Ucup Sprite-Sheet_Nu4 (360)-min_124: 1939181350
+      Ucup Sprite-Sheet_Nu4 (360)-min_79: 1789362888
+      Ucup Sprite-Sheet_Nu4 (360)-min_72: 1462597504
+      Ucup Sprite-Sheet_Nu4 (360)-min_99: 930272360
+      Ucup Sprite-Sheet_Nu4 (360)-min_20: -477458082
+      Ucup Sprite-Sheet_Nu4 (360)-min_21: -96975474
+      Ucup Sprite-Sheet_Nu4 (360)-min_81: -1668517524
+      Ucup Sprite-Sheet_Nu4 (360)-min_123: -3623546
+      Ucup Sprite-Sheet_Nu4 (360)-min_6: 1994245255
+      Ucup Sprite-Sheet_Nu4 (360)-min_87: 1390440397
+      Ucup Sprite-Sheet_Nu4 (360)-min_148: -252614845
+      Ucup Sprite-Sheet_Nu4 (360)-min_52: 917637671
+      Ucup Sprite-Sheet_Nu4 (360)-min_84: -130881448
+      Ucup Sprite-Sheet_Nu4 (360)-min_153: 1037246063
+      Ucup Sprite-Sheet_Nu4 (360)-min_78: -1009546066
+      Ucup Sprite-Sheet_Nu4 (360)-min_38: -1415657426
+      Ucup Sprite-Sheet_Nu4 (360)-min_85: -84385388
+      Ucup Sprite-Sheet_Nu4 (360)-min_126: -634098953
+      Ucup Sprite-Sheet_Nu4 (360)-min_32: -1187065391
+      Ucup Sprite-Sheet_Nu4 (360)-min_125: 56403362
+      Ucup Sprite-Sheet_Nu4 (360)-min_108: 265105490
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
